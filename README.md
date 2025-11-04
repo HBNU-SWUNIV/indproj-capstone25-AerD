@@ -10,7 +10,7 @@
 ### 참여학생
 - 20201735 박우진, 20222019 김다빈, 20232013 김수안, 20232014 김연주, 20238024 박진형, 20231203 엄기원
   
-## Teamate Project Background
+## Project Background
 
 - ### Zero-Shot Object Detection의 필요성
     - 사전 데이터 없이도 텍스트 설명만으로 탐지가 가능
